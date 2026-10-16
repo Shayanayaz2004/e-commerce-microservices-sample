@@ -1,17 +1,14 @@
 version = 1
 
 [[analyzers]]
-name = "javascript"
-
-[[analyzers]]
 name = "java"
 
 [[analyzers]]
 name = "python"
 
 [[analyzers]]
-name = "shell"
+name = "javascript"
 
 [[analyzers]]
-name = "terraform"
+name = "secrets"
 
