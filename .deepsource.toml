@@ -1,0 +1,17 @@
+version = 1
+
+[[analyzers]]
+name = "javascript"
+
+[[analyzers]]
+name = "java"
+
+[[analyzers]]
+name = "python"
+
+[[analyzers]]
+name = "shell"
+
+[[analyzers]]
+name = "terraform"
+
